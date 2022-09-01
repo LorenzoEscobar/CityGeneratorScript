@@ -13,4 +13,12 @@ Useful for anyone who needs some low detail buildings quickly, they can be edite
 - All buildings will have a small box representing a generator on top as well as an antenna.
 - Materials are provided in the blend file, but can easily be modified to your liking.
 
+
 ## Contact LE.LorenzoEscobar@gmail.com for any assistance or questions!
+
+
+### Example Render using the script.
+
+![cityrender](https://user-images.githubusercontent.com/59485356/187829606-d1bf0efe-1c25-42e9-b18f-69c0ce307e00.png)
+
+
